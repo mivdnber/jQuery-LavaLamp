@@ -1,0 +1,23 @@
+{
+  "name": "jQuery-LavaLamp",
+  "version": "1.4",
+  "homepage": "http://nixboxdesigns.com/projects/jquery-lavalamp/",
+  "authors": [
+    "jtnix"
+  ],
+  "description": "Light up your menus with fluid, jQuery-powered animations",
+  "main": "jquery.lavalamp.min.js",
+  "keywords": [
+    "jQuery",
+    "hover",
+    "lavalamp"
+  ],
+  "license": "MIT/GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
